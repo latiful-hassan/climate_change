@@ -1,2 +1,6 @@
 # climate_change <br />
-- Visualisation and analysis on historic greenhouse gas data in comparison to present
+- Dataset: **dslabs** <br />
+- Topic: Visualisation and Analysis on Historic Greenhouse Gas Data in Comparison to Present <br />
+- Content: 
+  * Time Series Plots
+  * Line Plots
